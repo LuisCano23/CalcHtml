@@ -1,0 +1,9 @@
+.titulo_azul{
+    color: blue;    
+}
+
+.dibujo{
+    border-radius: 100%;
+    width: 650px;
+    height: 450px;
+}
